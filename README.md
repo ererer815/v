@@ -1,2 +1,1 @@
-# dobrý den na gid habu s batchem 
-<h1> dobrý den na gid habu s batchem</h1>
+<h1> dobrý den na gidhabu s batchem</h1
